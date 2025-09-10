@@ -60,3 +60,6 @@ Feel free to use whatever CSS framework or just CSS as long as it looks nice and
 
 #### Version 3 GIF Example
 ![v3-example](https://i.imgur.com/P7E8GoZ.gif)
+
+
+Thank you for reading
